@@ -1,1 +1,21 @@
 Hello World !!!
+
+git status
+git log
+git add
+git commit -m ""
+git commit -a -m ""
+git push origin main
+git remote -v
+git tag tagname
+git show tagname
+
+git clone
+git log --pretty=oneline
+git checkout -b branchname
+git branch
+git switch branchname
+git switch -c branchname
+git branch --all
+git switch -
+git branch -d branchname
