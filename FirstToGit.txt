@@ -19,4 +19,11 @@ git branch --all
 git switch -
 git branch -d branchname
 git log --graph
+git merge branchname 
+git rebase branchname
+get pull origin main
+get checkout commitid
+get checkout -b newbranchname
+git stash
+
 
